@@ -1,0 +1,363 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The womans almanack or, prognostication for ever: shewing the nature of the planets, with the events that shall befall women and children born under them. With several predictions very useful for the female sex. / By Sarah Ginnor student in Physick.</title>
+            <author>Jinner, Sarah, fl. 1658-1664.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75109</idno>
+            <idno type="STC">Wing A1848</idno>
+            <idno type="STC">Thomason E2140_1</idno>
+            <idno type="STC">ESTC R208366</idno>
+            <idno type="EEBO-CITATION">99867323</idno>
+            <idno type="PROQUEST">99867323</idno>
+            <idno type="VID">170584</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75109)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170584)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 243:E2140[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The womans almanack or, prognostication for ever: shewing the nature of the planets, with the events that shall befall women and children born under them. With several predictions very useful for the female sex. / By Sarah Ginnor student in Physick.</title>
+                  <author>Jinner, Sarah, fl. 1658-1664.</author>
+               </titleStmt>
+               <extent>[16] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for J.J.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With title page woodcut.</note>
+                  <note>Signatures: A.</note>
+                  <note>Annotation on Thomason copy: "Aug 1".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Almanacs, English --  Early works to 1800.</term>
+               <term>Astrology --  Early works to 1800.</term>
+               <term>Ephemerides --  Early works to 1800.</term>
+               <term>Women --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170584:1" rendition="simple:additions"/>
+            <p>The Womans Almanack: OR, Prognoſtication, for ever: Shewing the nature of the Planets, with the Events that ſhall befall Wo<g ref="char:EOLhyphen"/>men and children born under them. With ſeveral Predictions very uſeful for the Female Sex.</p>
+            <figure/>
+            <p>
+               <hi>By</hi> Sarah Ginnor <hi>Student in Phyſick.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for J. J. 1659.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:170584:2"/>
+            <pb facs="tcp:170584:2"/>
+            <head>To the Reader.</head>
+            <p>COurtious Reader, The gift of learning being ſo little ſet by in theſe days amongſt thoſe of our Sex, is the chief invitation which hath cauſed me to publiſh this ſmal Tract, thereby to ſtir up others, not to let their great worth with other learned Authors of our Sex ly in obſcurity. I need not quote them for I think few of our Sex ſo igno<g ref="char:EOLhyphen"/>rant but they have either read or heard of them, and though ſome of them have been abuſed by the quackſalving Mountibanks that would engroſſe all knowledge into their own hands, yet have great &amp; wonderful cures been done by our Sex, after theſe paper-ſculd Mongrels have left them. Why then ſhould we ſuffer theſe Cater-pillers to eat up our vine? Let me tell you, it is as lawful for us to be Judges &amp; plead our own Cauſes in our own gowns as Lawyers to plead for others. Then lets rowſe up our ſpirits, and ſhow forth our Verues, for the knowledg in this Art will animate our husbands to excel us, no doubt but we ſhall make them ſencible where the ſign lies; and make them be in our ſtu<g ref="char:EOLhyphen"/>dies many times when they would be in an Ale<g ref="char:EOLhyphen"/>houſe; nay we ſhall find the nights will be more comfortable, and the days more pleaſant. By this means we ſhall be counted inſtead of Mobs, maps of modeſty, and for tattling Goſſips, but Emblems of vertue, and parterns of civiliy to all the world.</p>
+            <closer>
+               <signed>Yours whilst <hi>S.G.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:170584:3"/>
+            <head>A ROGNOSTICATION for ever.</head>
+            <div type="part">
+               <head>Astrological Obſervations.</head>
+               <p>FIrſt, I ſhall begin with what concerns our own Sex <hi>viz.</hi> If we find <hi>Mercury</hi> in a feminine Houſe with <hi>Venus,</hi> then we muſt allow <hi>Mercury</hi> a female, in a feminine Sign, and drawing to a con<g ref="char:EOLhyphen"/>junction with <hi>Venus, Mercury</hi> to a <hi>Quartile</hi> of <hi>Mars</hi> and <hi>Piſces,</hi> and <hi>Gemini,</hi> denotes ſome of our ſex (not too much loaded with vertue) have a rare faculty in ſcolding, in other ſome ſullenneſs and perverſneſſe.</p>
+               <p>
+                  <hi>Venus</hi> in the 12 houſe in exaltation, applying to combuſtion with the Sun, denoteth that women will be more free then uſual in beſtowing the P— on their Clients. But if <hi>Luna</hi> go to <hi>Saturn</hi> in the ſixth houſe in <hi>Libra,</hi> it ſhews that old covetious fools will dote on young wenches, therefore be<g ref="char:EOLhyphen"/>ware of marrying, in the Spring, for if <hi>Scorpio</hi> be in the 7th houſe intercepted, it denotes unſeemly wantonneſſe, let chery and lightneſs in women.</p>
+               <p>If <hi>Luna</hi> be in the 7th houſe in <hi>Piſces,</hi> it denotes frequent marrying, and is a fortunate poſition for Oyſter-women, Fiſh-women, &amp; others who are un<g ref="char:EOLhyphen"/>der the ſign <hi>Piſces.</hi>
+               </p>
+               <p>If <hi>Luna</hi> and <hi>Jupiter</hi> be in reception, the Moon
+<pb facs="tcp:170584:3"/>in <hi>Piſces</hi> and Jupiter in Cancer, it is a fortunate time of marrying, many of our Sex ſhall obtain gal<g ref="char:EOLhyphen"/>lant matches, nay ſome better then they deſerve. If Mercury and Venus be in Cancer, in conjuncti<g ref="char:EOLhyphen"/>on in the eleventh houſe, to marry a Seaman is for<g ref="char:EOLhyphen"/>tunate. If Venus be in Scorpio, the wantons of our Sex as well as the other ſex will be pepper'd with the P— and then wo to your Noſes, for its a fa<g ref="char:EOLhyphen"/>tal plague to the roof of your mouth beſides the downfal of Narrow-bridge and the drying up your Fiſh-ponds by the opperation of malignant fire<g ref="char:EOLhyphen"/>works.</p>
+               <lg>
+                  <l>For this my Judgement, do not take diſtaſt;</l>
+                  <l>But as I am, I wiſh you all, be chaſt:</l>
+                  <l>This is the only way, if you deſire</l>
+                  <l>To be preſerved from the <hi>Frenchmans</hi> fire.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>The Names of the Planets and the Dayes governd by each Planet.</head>
+               <lg>
+                  <l>As Saturn ſtands for Saturday ſo Luna <hi>Sunday,</hi>
+                  </l>
+                  <l>Mars to Tueſday Sol ſtands up to Monday,</l>
+                  <l>Jupiter boldly doth to Thurſday fly,</l>
+                  <l>To Fryday Venus Wedenſday Mercury.</l>
+               </lg>
+               <p>The 12 ſigns ruling in the body are, Aries, Tau<g ref="char:EOLhyphen"/>rus, Gemini, Cancer, Leo, Virgo, Libra, Scorpio, Sagitarius Capricorn, Aquarius, Piſces.</p>
+               <div type="section">
+                  <pb facs="tcp:170584:4"/>
+                  <head>
+                     <hi>IAnuary.</hi> 
+                  </head>
+                  <p>If it be on New-years day that the Clouds in the morning be red, it ſhall be an an<g ref="char:EOLhyphen"/>gry yeare with much War and great Tempeſts. If the Sun do ſhine on the 22. day of <hi>January</hi> there ſhall be much wind. If the Sun doth ſhine on Saint <hi>Pauls</hi> day, the 25 day of <hi>January,</hi> it ſhall be a fruitfull year, and if it do Rain or Snow, it ſhall be between both: If it be very miſty it betokeneth great death: If thou hear it Thunder that day, it betokeneth great Winds, and great death and moſt eſpecially among rich men that year.</p>
+               </div>
+               <div type="section">
+                  <head>February.</head>
+                  <p>On Shrove-Tueſday whoſoever doth Plant or Sow, it ſhall remain alwayes green.</p>
+                  <p>
+                     <hi>Item,</hi> how much the Sun did ſhine that day, ſo much he ſhall ſhine every day in Lent. And al<g ref="char:EOLhyphen"/>wayes the next new Moon that falleth after Can<g ref="char:EOLhyphen"/>dlemas day, and after that the next Tueſday, ſhall be alwayes Shrove-Tueſday.</p>
+                  <p>And when the Sun riſeth and ſhineth early, then proſpereth well all manner of Fruit: if you hear it Thunder, that it betokeneth great Wine and much Fruit.</p>
+                  <p>Saint <hi>Bede</hi> ſaith there be three dayes, and three nights, that if a Child be born therein, the body a<g ref="char:EOLhyphen"/>bideth whole and ſhall not conſume away untill the day of Judgment: that is in the laſt dayes of <hi>January,</hi> and the ſecrets thereof are full wondrous. And if a Tree be hewed at, on the ſame day, it ſhall never fall.</p>
+               </div>
+               <div type="section">
+                  <pb facs="tcp:170584:4"/>
+                  <head>March.</head>
+                  <p>The more miſts that there be in <hi>March,</hi> the more good doth it, and as many dayes as be in <hi>March,</hi> ſo many hoar froſts ſhall you have after Eaſter, and ſo many Miſts in <hi>August.</hi> All manner of Trees that ſhall be cut down unto the two laſt Holy days in <hi>March,</hi> ſhall never fall.</p>
+                  <p>
+                     <hi>Item,</hi> If on Palm-Sunday be no fair weather, that betokeneth to goodneſs. If it do Thunder that day, then it ſignifieth a merry year, and death of great men.</p>
+               </div>
+               <div type="section">
+                  <head>April.</head>
+                  <p>If it rain never ſo little on the Aſcenſi<g ref="char:EOLhyphen"/>on day, it betokeneth dearth of all manner of food for Cattel. But when it is fair weather it is proſ<g ref="char:EOLhyphen"/>perous, and there ſhall be plenty of Tallow and much Wooll.</p>
+               </div>
+               <div type="section">
+                  <head>May.</head>
+                  <p>If the Sun do ſhine on the 25 day of <hi>May,</hi> Wine ſhall proſper well; but if it doth rain, it doth much hurt. <hi>Item,</hi> if it rain on Whit-Sun<g ref="char:EOLhyphen"/>day, it is not good. <hi>Item</hi> in the laſt of <hi>May,</hi> the Oak Trees begin to bear bloſſoms, if they bloſ<g ref="char:EOLhyphen"/>ſom then, you ſhall have a good year of Tallow, and plenty of Fruit.</p>
+               </div>
+               <div type="section">
+                  <head>June.</head>
+                  <p>If it rain ne'r ſo little on Midſummer-day, that is the 24 day of <hi>June,</hi> then do not the Haſel Nuts proſper: If the holy Sacraments day of our Lord be fair, then it is good and cauſeth Fruit plen<g ref="char:EOLhyphen"/>ty, and the Lambs to dye.</p>
+               </div>
+               <div type="section">
+                  <head>July,</head>
+                  <p>If it Rain the ſecond day of <hi>July,</hi> ſuch wea<g ref="char:EOLhyphen"/>ther ſhall be forty days after, day by day, yet ſome imputed it to <hi>Swithin</hi> the 15.</p>
+               </div>
+               <div type="section">
+                  <pb facs="tcp:170584:5"/>
+                  <head>
+                     <hi>Auguſt.</hi> 
+                  </head>
+                  <p>If the Sun do ſhine on the 15 day of <hi>August,</hi> that is a good token, and ſpeciall for Wine.</p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>September.</hi> 
+                  </head>
+                  <p>If thou wilt ſee and know how it ſhall go that year, then take heed to the Oak Ap<g ref="char:EOLhyphen"/>ples about Saint <hi>Michaels</hi> day, for by them you ſhall know how that year ſhall be: If the Apples of the Oak-Trees when they be cut; be within full of Spiders, then followeth a naughty year: If the Apples have within them Flies, that betokens a meetly good year. If they have Maggots in them, then followeth a good year. If there be nothing in them, then followeth great dearth: if the Ap<g ref="char:EOLhyphen"/>ples be many and early ripe, ſo ſhall it be an early Winter, and very much Snow ſhall be afore Chriſt<g ref="char:EOLhyphen"/>mas, and after that it ſhall be cold.</p>
+                  <p>If the inner part or kernall be fair, and clear, then ſhall the Summer be fair, and the Corne good alſo; but if they be very moiſt then ſhall the Sum<g ref="char:EOLhyphen"/>mer alſo be moiſt. If they be lean then ſhall there be a hot and dry Summer. If it Thunder in this moneth it preſageth plenty of Wine and Corne that year.</p>
+               </div>
+               <div type="section">
+                  <head>October.</head>
+                  <p>When the leaves will not fall from the Trees, then followeth after a cold <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> or elſe a great number of Caterpillars on <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ees.</p>
+               </div>
+               <div type="section">
+                  <head>November.</head>
+                  <p>Whether the Winter be cold or warm, go on <hi>Alhollows</hi> day to a Beech Tree, and cut a chip thereof, and if it be dry then ſhall the Winter be warm: if thou wilt try on St. <hi>Andrews</hi>
+                     <pb facs="tcp:170584:5"/>even, whether it ſhall be a moiſt or dry year that followeth, you ſhall know by a glaſs full of water: if the year ſhall be moiſt, and much Raine ſhall fall, then ſhall the Water in the Glaſs run over. And if there ſhall follow a dry year, then ſhall not the water ariſe to the brink thereof.</p>
+                  <p>When there followeth a foggy Night, a good year after enſueth, that is, when it commeth on the Thurſday Night, or on a fleſh day at Night, and not on the Friday or Saturday, wherein ſome men will eat no other meat but Fleſh: if there be Thundring, that betokeneth plenty of Fruit.</p>
+               </div>
+               <div type="section">
+                  <head>December.</head>
+                  <p>When Chriſtmas day commeth while the Moon waxeth, it ſhall be a very good year, and the nearer it commeth to the New Moon, the bet<g ref="char:EOLhyphen"/>ter ſhall that year be.</p>
+                  <p>If it come when the Moon decreaſeth, it ſhall be a hard year, and the nearer the lat<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>er end there<g ref="char:EOLhyphen"/>of it commeth the worſe and harder ſhall the year be. And if any Wood be cut off on the two laſt dayes of <hi>December,</hi> and on the firſt day of <hi>January,</hi> it ſhall not rot nor wither away, nor be full of Worms, but alwayes wax harder, and in his age as hard as a ſtone.</p>
+                  <p>W<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>riſtmas Eve at midnight the wind waxeth <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>etokens a fruitfull year; and when the Sun ſhines on Twelfth day in the morning, it betokeneth foul weather, if it be fair that day it is happy and fortunate.</p>
+               </div>
+            </div>
+            <div type="part">
+               <pb facs="tcp:170584:6"/>
+               <head>To find the time when the <hi>Sun</hi> ſhall be Eclipſed, and when not by his distance from theſe two ſections called the head and tail of the Dragon.</head>
+               <p>If the apparent latitude of the Moon at the time of the viſible Conjunction be leſſe then 30. min. 40 ſeconds, there muſt be an Eclipſe.</p>
+               <p>But if the apparent latitude of the Moon be more then 34 min. 51 ſeconds, there can be no Eclipſe.</p>
+               <p>If the apparent latitude be more then 30 min. 40 ſeconds, and leſſe then 34 min. 51 ſeconds, there may be a ſmal Eclipſe, as in this following Figure.</p>
+               <figure>
+                  <p>North</p>
+                  <p>South</p>
+                  <p>East</p>
+                  <p>West</p>
+               </figure>
+            </div>
+            <div type="part">
+               <head>Of the Eclipſe of the <hi>Moon.</hi>
+               </head>
+               <p>If the Moon at the Noon at the time of her t<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> oppoſition to the Sun, ſhall be diſtant from
+<pb facs="tcp:170584:6"/>either of the two forementioned points, leſſe then 10 degrees, 21 mm. and 20 ſeconds, then muſt the Moon ſuffer an Eclipſe.</p>
+               <p>But if her diſtance be more then 13 degrees 5 min. and 13 ſeconds then the Moon cannot be Eclipſed.</p>
+               <p>If her diſtance be more then 10 degrees 21 min. &amp; 20 ſeconds, then ſhe may Happen to be Eclip<g ref="char:EOLhyphen"/>ſed, but not neceſſarily.</p>
+               <p>I ſhall not treat further on Eclipſes, in regard the happineſs of our Sex doth appeat in moſt ſplen<g ref="char:EOLhyphen"/>dour, when the Moon appears ſo clouded, as in this following Figure, dark nights being to us as a fountain, whence flows all our mirth, joy, pleaſure, ſports, and melodious recreations.</p>
+               <figure/>
+               <lg>
+                  <l>Expound you may the piece 'tis but a Riddle,</l>
+                  <l>The pleaſure of our Sex lies in the middle.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <pb facs="tcp:170584:7"/>
+               <head>The ſignification of Moles in theſe of our ſex.</head>
+               <p>If the Woman have a Mole on the left Breaſt, it denotes her undoubtedly wicked. If ſhe have a Mole on her Belly, it denotes her a Clutton or great feeder. If a Mole right againſt the Spleen, it denotes ſhe ſhall be often ſick. If on the bottom of the Belly, it argues much debility and weakneſs. If near the privy Members it denotes unſpeakable deſires after Venery, and unſatiable in coacting. If a woman have a Mole on the right Knee, it de<g ref="char:EOLhyphen"/>notes her honeſt, if on the left many Children. If on the Ankle of the foot, ſhe ſhall take on her the mans part. Moles on the right ſide betokeneth ho<g ref="char:EOLhyphen"/>neſty Riches, on the left ſide Calamity and Pover<g ref="char:EOLhyphen"/>ty. If on the Forhead, it denotes that ſhe ſhall come to high dignity. If ſhe have a Mole about the overbrow, it argues ſhe ſhall marry a rich comely perſon. But if on the overbrow ſhe ſhall have five Husbands. If ſhe have a Mole on the Noſe ſome<g ref="char:EOLhyphen"/>what Ruddy, and another in the privy place, it doth ſhew ſuch a perſon is over much given to Venerial acts. If a Woman have a Mole on the neither jaw, it denotes ſhe ſhall lead her life in ſorrow, which ſhall hinder her from bearing Children. If a Mole on any of the Lips, it doth portend that ſhees a great glutton. If on the Chin, it portends wealth. If a Mole on any of her Ears, it portends ſhe ſhall be Rich and much reverenced, and hath the like Mole on ber Thigh or Ham. If on the Neck, it likewiſe denotes Riches. If a Woman ſhall have a
+<pb facs="tcp:170584:7"/>Mole on her Loyns, it denotes poor Kindred, and alwayes wanting. If on the ſhoulders, it denotes Impriſonment and ſorrow. If ſhe have a Mole on the Throat, it ſignifies ſhe ſhall Marry a Wealthy and Comely man. If in the Hand a Mole ſhall ap<g ref="char:EOLhyphen"/>pear, it denotes good Luck and Proſperous Chil<g ref="char:EOLhyphen"/>dren. If a Mole on the Breaſt, it denotes ſhe ſhall be harmed by much poverty.</p>
+            </div>
+            <div type="part">
+               <head>How to know whether a VVoman be with Child of Boy or Girl.</head>
+               <p>Write the proper names of the Father or Mo<g ref="char:EOLhyphen"/>ther, and of the Moneth that ſhe conceived with Child, and adding likewiſe all the numbers of thoſe Letters together, divide them by ſeven, and if the remainder be even, it will be a Girle, if odd, it will be a Boy.</p>
+            </div>
+            <div type="part">
+               <head>To know whether the VVife be Honeſt or no.</head>
+               <p>Write the name of the Wife, and of he<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Mother, and put all the number of thoſe Letters together, and put to the totall ſum 15, and divide it by 7, and if the remainder be un-even, ſhe is honeſt, if even ſhe is diſhoneſt. Alwayes write the proper names in Latine.</p>
+               <p>The ſame may be to know whether a Man or his Wife ſhall dye firſt, only add not the number 15, but divide by ſeven, if even the Woman ſhall dye, if odd the man.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:170584:8"/>
+               <head>What Thunder ſignifieth every Moneth.</head>
+               <p>Thunder in <hi>January</hi> ſignifieth the ſame year great Winds, plentifull of Corn and Cattel perad<g ref="char:EOLhyphen"/>venture. Thunder in <hi>February,</hi> ſignifieth that ſame year many rich men ſhall dye in great ſickneſs. Thunder in <hi>March,</hi> ſignifieth that ſame year great Winds, plenty of Corn, and debate amongſt peo<g ref="char:EOLhyphen"/>ple. Thunder in <hi>April</hi> ſignifieth that ſame year to be fruitfull and merry, with the death of wicked men. Thunder in <hi>May,</hi> ſignifieth that year need, ſcarceneſſe and dearth of Corn, and great hunger. Thunder in <hi>June,</hi> ſignifieth that ſame year that Woods ſhall be overthrown with Winds, and great rageing ſhall be of Lyons and Wolves, and ſo like of other harmfull Beaſts. Thunder in <hi>July,</hi> ſignifi<g ref="char:EOLhyphen"/>eth that fame year ſhall be good Corn, and loſſe of Beaſts, that is to ſay, their ſtrength ſhall periſh. Thunder in <hi>August,</hi> ſignifieth the ſame year ſor<g ref="char:EOLhyphen"/>row, wailing of many, for many ſhall be ſick. Thunder in <hi>September,</hi> ſignifieth the ſame year great Wind, plentifull of Corn, and much falling out between man and man. Thunder in <hi>October</hi> ſignifieth the ſame year great Wind, and ſcantneſs of Corn, Fruits and Trees. Thunder in <hi>November</hi> fignifieth that ſame year to be fruitfull and merry, and cheapnes of Corn. Thunder in <hi>December,</hi> ſig<g ref="char:EOLhyphen"/>nifieth that ſame year cheapneſſe of Corn, and Wheat, with peace and accord among the peo<g ref="char:EOLhyphen"/>ple.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:170584:8"/>
+               <head>Some memorable Accidents happened ſince <hi>1639.</hi>
+               </head>
+               <list>
+                  <item>The Parliament began the 3 of <hi>November,</hi> and continued 12 years. 1639</item>
+                  <item>The Rebellion in <hi>Ireland</hi> began 23 <hi>October,</hi> 1641</item>
+                  <item>Earl of <hi>Strufford</hi> beheaded 12 <hi>May,</hi> 1642</item>
+                  <item>Earl of <hi>Eſſex</hi> made Gen. <hi>July</hi> 12 1642</item>
+                  <item>Battel at <hi>Edg-hill Octob.</hi> 20. and at <hi>Brainford</hi> 12 <hi>November,</hi> 1642</item>
+                  <item>
+                     <hi>Newbury</hi> fight 23 <hi>Sept.</hi> 1642</item>
+                  <item>
+                     <hi>Scots</hi> enter into <hi>England Jan.</hi> 16. 1643</item>
+                  <item>Biſhop of <hi>Cant.</hi> beheaded Jan. 10 1644</item>
+                  <item>Lord <hi>Fairfax</hi> made General <hi>Decemb.</hi> 31. 1644</item>
+                  <item>
+                     <hi>Marst emore</hi> fight, <hi>June</hi> 14, 1644</item>
+                  <item>Houſe of Lords and King voted down, 1648</item>
+                  <item>King <hi>Charles</hi> began his reign 27 <hi>March</hi> 1625 and beheaded 30 <hi>January,</hi> 1648</item>
+                  <item>
+                     <hi>Colcheſter</hi> taken, and <hi>Lucas</hi> and <hi>Liſle</hi> ſhot to death, <hi>Aug.</hi> 28, 1648</item>
+                  <item>
+                     <hi>Scots</hi> routed in <hi>Lancaſhire Aug.</hi> 7. 1648</item>
+                  <item>
+                     <hi>Ormond</hi> beaten from <hi>Dublin Aug</hi> 2, 1649</item>
+                  <item>The K. of <hi>Scott</hi> routed at <hi>VVorceſter</hi> 3 <hi>Sep.</hi> 1649</item>
+                  <item>
+                     <hi>Scots</hi> routed at <hi>Dunbar Sept.</hi> 3. 1651</item>
+                  <item>The long Parliament diſſolved by the Lord <hi>Pro<g ref="char:EOLhyphen"/>tector, April</hi> 20 1653</item>
+                  <item>Victory againſt the <hi>Dutch, Jan.</hi> 23 1653</item>
+                  <item>The Protector having Governed four years, three months, and 5 days, departed his life the third of Sept. 1658</item>
+               </list>
+            </div>
+            <div type="part">
+               <pb facs="tcp:170584:9"/>
+               <head>Some Signs of mirth for our ſex.</head>
+               <p>When the Dragons head is in Scorpio, and he upon the Cuſp of the 7 houſe, the Moon being in Cancer, and Venus applying to a Sextile o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Moon, ther's hopes of abundance of ſatisfaction in the gallant recreation of night ſport by a ſtranger, which queſtionleſs will make the merry wantons of out age tittle with laughter, at the tryal of the fundamentall Point of Mars, who ſhall venter to beat up their quarters to his own prejudice.</p>
+               <p>When Mars ſits at home to waſh the diſhes and skim the Pot, and Venus wal<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the Exchange, it denotes great change in houſhold government.</p>
+               <p>When men come ſober home, and go to bed by day-light, our ſex are in election to be merry at Candle-light.</p>
+               <p>When men grow blind and can't ſee to tell mo<g ref="char:EOLhyphen"/>ny at home, then our ſex may be merry abroad.</p>
+               <p>When husbands are jealous over night, it ſhews a fit time for out ſex to go to St. <hi>Tantlins</hi> next morning.</p>
+               <p>If a man be fortified ſtrongly with the Scepter of Mars, it denotes a fit time for Venus to lye down, that mirth may be produced by the Turks entrance into Conſtantinople.</p>
+               <lg>
+                  <l>Yet after mirth, I wiſh our Sex may mend,</l>
+                  <l>And Vertue guide them whilſt I make <hi>An End.</hi>
+                  </l>
+               </lg>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
